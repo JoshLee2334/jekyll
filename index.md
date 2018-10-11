@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
@@ -7,5 +6,8 @@
     
 </head>
 <body>
+    {% include header.html %}
+    
+    {% include footer.html %}
 </body>
 </html>
